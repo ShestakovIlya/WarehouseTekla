@@ -1,0 +1,25 @@
+{
+  "name": "tekla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@pnpm/node-fetch": "^1.0.0",
+    "async": "^3.2.5",
+    "async-get-file": "^1.0.4",
+    "download": "^8.0.0",
+    "fetch": "^1.1.0",
+    "node": "^21.6.2",
+    "node-fetch": "^3.3.2",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.88.2",
+    "require.async": "^0.1.1"
+  }
+}
